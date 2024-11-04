@@ -1,2 +1,2 @@
-echo 'jenkins setup'
+echo 'repo: jenkins setup'
 ls -lart
